@@ -1,0 +1,11 @@
+Jannatul Ferdaus {
+  width: 181px;
+  height: 185px;
+  margin: 16px;
+}
+
+.slider-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 20/9;
+}
